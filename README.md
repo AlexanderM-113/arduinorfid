@@ -1,4 +1,4 @@
-# rfid-attendance-tracker
+# RFID-attendance-tracker
 
 IoT-based Smart Attendance System using RFID, Arduino, Firebase, and Flutter
 
@@ -16,7 +16,7 @@ IoT-based Smart Attendance System using RFID, Arduino, Firebase, and Flutter
 
 - Arduino
 - Python
-- Firebase
+- Appwrite
 - Flutter
 
 ## 📸 Screenshots
@@ -46,11 +46,11 @@ IoT-based Smart Attendance System using RFID, Arduino, Firebase, and Flutter
 ## ⚙️ Setup
 
 1. Clone repo
-2. Add your Firebase config
+2. Add your Appwrite config
 3. Run backend
 4. Upload Arduino code
 5. Run app
 
 ## 👩‍💻 Author
 
-Aarchi Avaiya
+Alexander Murphy
